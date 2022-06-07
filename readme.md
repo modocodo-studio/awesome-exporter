@@ -485,7 +485,7 @@ A list of tags avaialble in Awesome Exporter available for range queries and fil
 ##### Layering
 | Reference | Description | Range | Template |
 | - | - | - | - |
-| ```<Layering|=|XXX|=XXX>```<br />```<Layering|=|XXX>``` | Specify base and variable layers.<br />Specify base layers. | ✓<br />✓ |  
+| ```<Layering\|=\|XXX\|=\|XXX>```<br />```<Layering\|=\|XXX>``` | Specify base and variable layers.<br />Specify base layers. | ✓<br />✓ |  
 | ```<Layering:Base:Name>``` | Base layers query, comma separated. |  | ✓ |
 | ```<Layering:Variable:Name>``` | Variable layers query, comma separated. |  | ✓ |
 
@@ -632,11 +632,11 @@ A list of tags avaialble in Awesome Exporter available for range queries and fil
 *Spacers can be defined by each preset and changed in the modifier UI*
 | Reference | Description | Range | Template |
 | - | - | - | - |
-| ```<|>```	 | One spacer. |  | ✓ |
-| ```<||>``` | Two spacers. |  | ✓ |
-| ```<|||>``` | Three spacers. |  | ✓ |
-| ```<||||>``` | Four spacers. |  | ✓ |
-| ```<|||||>```	 | Five spacers. |  | ✓ |
+| ```<\|>```	 | One spacer. |  | ✓ |
+| ```<\|\|>``` | Two spacers. |  | ✓ |
+| ```<\|\|\|>``` | Three spacers. |  | ✓ |
+| ```<\|\|\|\|>``` | Four spacers. |  | ✓ |
+| ```<\|\|\|\|\|>```	 | Five spacers. |  | ✓ |
 
 ##### String Wrapper
 *String tags allow strings to be wrapped inside a tag making them editable my modifier queries.*
